@@ -53,7 +53,7 @@ The simplest way to start is to install dwave-ocean-sdk for the full suite of Oc
     $ cd knapsack
     ```
 
-* Run the run file:
+* Run the file:
 
     ```bash
     $ python knapsack.py
