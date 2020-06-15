@@ -1,3 +1,5 @@
 .idea
 .vscode
 .ipynb_checkpoints
+
+Pipfile.lock
