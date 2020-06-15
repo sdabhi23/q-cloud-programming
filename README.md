@@ -1,6 +1,6 @@
 # Q Cloud Programming
 
-This repo contains implementations of some basic quantum circuits using Qiskit and Cirq
+This repo contains implementations of a few programs which can run on simulators as well as actual quantum hardware written using libraries provided by major quantum software stack providers.
 
 ## Index
 
@@ -22,4 +22,4 @@ This repo contains implementations of some basic quantum circuits using Qiskit a
 |    Zapata    |     Orquestra      |                          |                                          |                                                                            |                                                                                         Waiting for access                                                                                          |
 |  Microsoft   |      QDK + Q#      |                          |               Q# Simulator               |                                                                            |                                                                                                                                                                                                     |
 |              |   Azure Quantum    |                          |                                          |                                                                            |                                                                                         Waiting for access                                                                                          |
-|    Xanadu    | Strawberry Fields  |  Quantum teleportation   |                                          |                                                                            | The concepts of operations in photonic quantum computers are completely different from superconducting and ion-trap based quantum computers. Need to study from scratch for fully comprehending it. |
+|    Xanadu    | Strawberry Fields  |                          |                                          |                                                                            | The concepts of operations in photonic quantum computers are completely different from superconducting and ion-trap based quantum computers. Need to study from scratch for fully comprehending it. |
