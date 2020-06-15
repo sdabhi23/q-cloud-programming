@@ -14,6 +14,7 @@ ipywidgets = "*"
 seaborn = "*"
 pygments = "*"
 may4_challenge = {git = "https://github.com/qiskit-community/may4_challenge.git", editable = true, ref = "0.4.30"}
+dwave-ocean-sdk = "2.1.1"
 
 [requires]
 python_version = "3.7"
