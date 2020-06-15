@@ -10,6 +10,10 @@ cirq = "0.7.0"
 qiskit = "0.18.3"
 jupyterlab = "2.1.1"
 pyquil = "2.19.0"
+ipywidgets = "*"
+seaborn = "*"
+pygments = "*"
+may4_challenge = {git = "https://github.com/qiskit-community/may4_challenge.git", editable = true, ref = "0.4.30"}
 
 [requires]
 python_version = "3.7"
