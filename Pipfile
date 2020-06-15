@@ -6,10 +6,10 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-cirq = "*"
-qiskit = "*"
-jupyterlab = "*"
-pyquil = "*"
+cirq = "0.7.0"
+qiskit = "0.18.3"
+jupyterlab = "2.1.1"
+pyquil = "2.19.0"
 
 [requires]
 python_version = "3.7"
