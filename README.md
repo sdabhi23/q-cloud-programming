@@ -26,16 +26,6 @@ Instructions for installing external dependecies and configuring each cloud prov
 |              |   Azure Quantum    |                          |                                          |                                                                            |
 |    Xanadu    | Strawberry Fields  |                          |                                          |                                                                            |
 
-## Certifications
-
-- IBM Quantum Challenge 2020 ([Verify](https://www.youracclaim.com/badges/068a03e5-5111-4e88-aa12-6fb618ba5ca4/public_url))
-
-  [![IBM Badge](./ibm-quantum-challenge.png)](https://www.youracclaim.com/badges/068a03e5-5111-4e88-aa12-6fb618ba5ca4/public_url)
-
-- Summer school on hands-on quantum computing
-
-    Organinised by Centro de Ciencias de Benasque Pedro Pascual in June 2020
-
 ## Remarks
 
 - Programs implemented as a part of IBM Quantum Challenge (May 2020):
