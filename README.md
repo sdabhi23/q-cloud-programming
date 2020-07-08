@@ -6,25 +6,51 @@ Instructions for installing external dependecies and configuring each cloud prov
 
 ## Index
 
-| Organisation | Software / Product |         Program          |               Device Used                |                                Description                                 |                                                                   Remarks                                                                    |
-| :----------: | :----------------: | :----------------------: | :--------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
-|     IBM      |       Qiskit       |     Basics of Qiskit     |          Statevector Simulator           |                                                                            |                                                      Part of IBM Quantum Challenge 2020                                                      |
-|              |                    |   Random bit generator   |               IBM-Q Armonk               | Single qubit circuit to understand the concept of circuits and gates in QC |                                                                                                                                              |
-|              |                    |  Quantum teleportation   |          Statevector Simulator           |                                                                            |                        Reference: <https://github.com/quantumlib/Cirq/blob/master/examples/quantum_teleportation.py>                         |
-|              |                    | Quantum key distribution |              QASM Simulator              |        Naieve implementation of BB84 quantum cryptography protocol         |                                Part of IBM Quantum Challenge 2020. BB84: <https://en.wikipedia.org/wiki/BB84>                                |
-|              |                    |     Error correction     |        IBM-Q Athens / IBM-Q Rome         |      To demonstrate mitigation of read-out error in quantum circuits       |                                                      Part of IBM Quantum Challenge 2020                                                      |
-|              |                    |   Circuit Optimization   |                    -                     |        Optimize a circuit presented in the form of a unitary matrix        |                                                      Part of IBM Quantum Challenge 2020                                                      |
-|    Google    |        Cirq        |        Half adder        |              Cirq Simulator              |    The classic half adder circuited ported to run on quantum computers     |                                                                                                                                              |
-|              |                    |                          |            Quantum Engine API            |                                                                            |                                                              Waiting for access                                                              |
-|   Rigetti    |       PyQuil       |     Shor's algorithm     |               15 qubit QVM               |      Implementation of Shor's algorithm for factorising prime numbers      |                                                                                                                                              |
-|              |                    |                          |                   QPU                    |                                                                            |                                                          Waiting for access to QPU                                                           |
-|    DWave     |       Ocean        |      Maxcut problem      | DW_2000Q_6 (2000 qubit quantum annealer) |                   Optimization problem defined as a QUBO                   |                                                                                                                                              |
-|              |                    |   0/1 knapsack problem   | DW_2000Q_6 (2000 qubit quantum annealer) |                   Optimization problem defined as a QUBO                   |                                                                                                                                              |
-|              |                    | Task assignment problem  | DW_2000Q_6 (2000 qubit quantum annealer) |                   Optimization problem defined as a QUBO                   |                                                                                                                                              |
-|    Zapata    |     Orquestra      |                          |                                          |                                                                            |                                                              Waiting for access                                                              |
-|  Microsoft   |      QDK + Q#      |                          |               Q# Simulator               |                                                                            |                                                               Work in progress                                                               |
-|              |   Azure Quantum    |                          |                                          |                                                                            |                                                              Waiting for access                                                              |
-|    Xanadu    | Strawberry Fields  |                          |                                          |                                                                            | The concepts of operations in photonic quantum computers are completely different from superconducting and ion-trap based quantum computers. |
+| Organisation | Software / Product |         Program          |               Device Used                |                                Description                                 |
+| :----------: | :----------------: | :----------------------: | :--------------------------------------: | :------------------------------------------------------------------------: |
+|     IBM      |       Qiskit       |     Basics of Qiskit     |          Statevector Simulator           |                                                                            |
+|              |                    |   Random bit generator   |               IBM-Q Armonk               | Single qubit circuit to understand the concept of circuits and gates in QC |
+|              |                    |  Quantum teleportation   |          Statevector Simulator           |                                                                            |
+|              |                    | Quantum key distribution |              QASM Simulator              |        Naieve implementation of BB84 quantum cryptography protocol         |
+|              |                    |     Error correction     |        IBM-Q Athens / IBM-Q Rome         |      To demonstrate mitigation of read-out error in quantum circuits       |
+|              |                    |   Circuit Optimization   |                    -                     |        Optimize a circuit presented in the form of a unitary matrix        |
+|    Google    |        Cirq        |        Half adder        |              Cirq Simulator              |    The classic half adder circuited ported to run on quantum computers     |
+|              |                    |                          |            Quantum Engine API            |                                                                            |
+|   Rigetti    |       PyQuil       |     Shor's algorithm     |               15 qubit QVM               |      Implementation of Shor's algorithm for factorising prime numbers      |
+|              |                    |                          |                   QPU                    |                                                                            |
+|    DWave     |       Ocean        |      Maxcut problem      | DW_2000Q_6 (2000 qubit quantum annealer) |                   Optimization problem defined as a QUBO                   |
+|              |                    |   0/1 knapsack problem   | DW_2000Q_6 (2000 qubit quantum annealer) |                   Optimization problem defined as a QUBO                   |
+|              |                    | Task assignment problem  | DW_2000Q_6 (2000 qubit quantum annealer) |                   Optimization problem defined as a QUBO                   |
+|    Zapata    |     Orquestra      |                          |                                          |                                                                            |
+|  Microsoft   |      QDK + Q#      |                          |               Q# Simulator               |                                                                            |
+|              |   Azure Quantum    |                          |                                          |                                                                            |
+|    Xanadu    | Strawberry Fields  |                          |                                          |                                                                            |
+
+## Remarks
+
+- Programs implemented as a part of IBM Quantum Challenge (May 2020):
+
+  - Basics of Qiskit
+  - Quantum key distribution (using BB84 algorithm)
+  - Error correction
+  - Circuit Optimization
+
+- Reference implementation for quantum teleportation: <https://github.com/quantumlib/Cirq/blob/master/examples/quantum_teleportation.py>
+
+- BB84 algorithm: <https://en.wikipedia.org/wiki/BB84>
+
+- Waiting for access to systems:
+
+  - Google's Quantum Engine API
+  - Rigetti's cloud QPU
+  - Zapata's Orquestra
+  - Microsoft's Azure Quantum
+
+- The concepts of operations used in Xanadu's photonic quantum computers are completely different from superconducting and ion-trap based quantum computers.
+
+- WIP
+
+  - Implementation of any algorithm using Q# and QDK
 
 ## License
 
