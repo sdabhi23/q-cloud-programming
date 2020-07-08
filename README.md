@@ -1,4 +1,4 @@
-# Q Cloud Programming
+# Quantum Cloud Programming
 
 This repo contains implementations of a few programs which can run on simulators as well as actual quantum hardware written using libraries provided by major quantum software stack providers.
 
