@@ -13,6 +13,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "sdabhi23",
+      "name": "Shrey",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/25759344?v=4",
+      "profile": "http://sdabhi23.github.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

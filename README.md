@@ -56,7 +56,7 @@ Work till commit [388d874](https://github.com/sdabhi23/q-cloud-programming/tree/
 - WIP
 
   - Implementation of any algorithm using Q# and QDK
-  
+
 ## Acknowledgment
 
 I want to thank Sri Krishnan V, Mohan B V, Manojkumar Parmar and Dr. Anjani Priyadarsini from Robert Bosch Engineering and Business Solutions, India, for their valuable comments, contributions and continued support to the project.
@@ -95,6 +95,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/parmarmanojkumar"><img src="https://avatars0.githubusercontent.com/u/10676690?v=4" width="100px;" alt=""/><br /><sub><b>Manojkumar Parmar</b></sub></a><br /><a href="#ideas-parmarmanojkumar" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://sdabhi23.github.com"><img src="https://avatars3.githubusercontent.com/u/25759344?v=4" width="100px;" alt=""/><br /><sub><b>Shrey</b></sub></a><br /><a href="https://github.com/sdabhi23/q-cloud-programming/commits?author=sdabhi23" title="Code">💻</a></td>
   </tr>
 </table>
 
