@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "parmarmanojkumar",
+      "name": "Manojkumar Parmar",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10676690?v=4",
+      "profile": "https://github.com/parmarmanojkumar",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "q-cloud-programming",
+  "projectOwner": "sdabhi23",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
