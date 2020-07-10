@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "sdabhi23",
+      "name": "Shrey",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/25759344?v=4",
+      "profile": "http://sdabhi23.github.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "q-cloud-programming",
+  "projectOwner": "sdabhi23",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
