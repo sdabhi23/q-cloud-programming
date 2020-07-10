@@ -4,6 +4,8 @@ This repo contains implementations of a few programs which can run on simulators
 
 Instructions for installing external dependecies and configuring each cloud provider are available in the respective folders.
 
+Work till commit [388d874](https://github.com/sdabhi23/q-cloud-programming/tree/388d874e0e198f5961a9e394a2c9262d398494b2) was done during internship at Robert Bosch Engineering and Business Solutions (RBEI)
+
 ## Index
 
 | Organisation | Software / Product |         Program          |               Device Used                |                                Description                                 |
@@ -51,6 +53,10 @@ Instructions for installing external dependecies and configuring each cloud prov
 - WIP
 
   - Implementation of any algorithm using Q# and QDK
+  
+## Acknowledgment
+
+I want to thank Sri Krishnan V, Mohan B V, Manojkumar Parmar and Dr. Anjani Priyadarsini from Robert Bosch Engineering and Business Solutions, India, for their valuable comments, contributions and continued support to the project.
 
 ## License
 
